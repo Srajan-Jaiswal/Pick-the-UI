@@ -4,7 +4,7 @@
 <img src="Screenshots/SS_2.png" width="1000" >
 
 <p float="left">
-  <img src="Screenshots/SS_3.jpg" width="300" >
+  <img src="Screenshots/SS_13.jpg" width="300" >
   <img src="Screenshots/SS_4.jpg" width="300" >
 </p>
 <p float="left">
@@ -27,7 +27,7 @@
 </p>
 
 <p float="left">
-  <img src="Screenshots/SS_13.jpg" width="300" >
+  <img src="Screenshots/SS_3.jpg" width="300" >
   <img src="Screenshots/SS_14.jpg" width="300" >
 </p>
 
