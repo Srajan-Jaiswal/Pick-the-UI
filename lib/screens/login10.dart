@@ -27,13 +27,7 @@ class _PineAppleLoginState extends State<PineAppleLogin> {
     );
   }
 
-  Widget get _backContainer => Container(
-        height: UIHelper.dynamicHeight(600),
-        decoration: BoxDecoration(
-          borderRadius: BorderRadius.only(bottomLeft: Radius.circular(50)),
-          color: UIHelper.PINEAPPLE_PRIMARY_COLOR,
-        ),
-      );
+ 
   Widget get _frontContainer => Padding(
         padding: const EdgeInsets.fromLTRB(25, 50, 25, 0),
         child: Container(
