@@ -17,8 +17,7 @@ class ForgetPasswordButton extends StatelessWidget {
           child: SizedBox(
             height: 30,
             child: FlatButton(
-              shape: RoundedRectangleBorder(
-                  borderRadius: new BorderRadius.circular(50.0)),
+             
               onPressed: () {},
               child: Text(UIHelper.forgetPassword,
                   style: TextStyle(fontSize: 15, color: color)),
